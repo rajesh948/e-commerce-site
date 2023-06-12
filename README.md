@@ -1,5 +1,5 @@
 # e_commerce_site
-
+This project build in vue js framwork.In this project i used localstorage to manange database. in this project user can login/regitration and see list of product. and user can add this project to cart and then checkout.also in this site i add treanding list product base on purchase order.and also add one sell product list which will display only 15 minit.
 ## Project setup
 ```
 npm install
